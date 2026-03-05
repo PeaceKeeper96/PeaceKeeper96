@@ -12,7 +12,7 @@ func main() {
 ```
 <!--START_SECTION:waka-->
 
-```txt, python ruby json
+```rust
 From: 04 March 2026 - To: 04 March 2026
 
 Total Time: 36 mins
