@@ -1,5 +1,6 @@
-![ezgif-38c29fef6cf9c4d4](https://github.com/user-attachments/assets/c78c3ddd-864b-464b-93fd-6f1ab77640c7)
+![gifff](https://github.com/user-attachments/assets/79c03ad2-987d-4b82-80ed-a1be0092c78e)
 ```go
+
 package main
 
 import (
