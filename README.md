@@ -1,17 +1,5 @@
 ![gifff](https://github.com/user-attachments/assets/79c03ad2-987d-4b82-80ed-a1be0092c78e)
-```go
 
-package main
-
-import (
-  "fmt"
-)
-
-func main() {
-  fmt.Println("Hello Stalkers")
-}
-
-```
 <!--START_SECTION:waka-->
 
 ```rust
