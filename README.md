@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[assets/title.gif](https://github.com/user-attachments/assets/79c03ad2-987d-4b82-80ed-a1be0092c78e)" style="max-width:100%;">
+  <img src="https://github.com/user-attachments/assets/79c03ad2-987d-4b82-80ed-a1be0092c78e" style="max-width:100%;">
 </p>
 <!--START_SECTION:waka-->
 
