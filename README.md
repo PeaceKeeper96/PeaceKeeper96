@@ -4,19 +4,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 March 2026 - To: 28 August 2026
+From: 04 March 2026 - To: 29 August 2026
 
-Total Time: 49 hrs 4 mins
+Total Time: 50 hrs 56 mins
 
-Lua          14 hrs 42 mins        >>>>>>>------------------   29.80 %
-Go           8 hrs 59 mins         >>>>>--------------------   18.24 %
-Python       5 hrs 12 mins         >>>----------------------   10.56 %
-JavaScript   3 hrs 20 mins         >>-----------------------   06.76 %
-Text         3 hrs 17 mins         >>-----------------------   06.69 %
-CSV          1 hr 55 mins          >------------------------   03.90 %
-Bash         1 hr 3 mins           >------------------------   02.16 %
-Markdown     1 hr 2 mins           >------------------------   02.11 %
-HTML         55 mins               -------------------------   01.89 %
+Lua          14 hrs 42 mins        >>>>>>>------------------   28.72 %
+Go           8 hrs 59 mins         >>>>---------------------   17.58 %
+Python       5 hrs 27 mins         >>>----------------------   10.67 %
+JavaScript   3 hrs 39 mins         >>-----------------------   07.15 %
+Text         3 hrs 17 mins         >>-----------------------   06.45 %
+HTML         1 hr 59 mins          >------------------------   03.91 %
+CSV          1 hr 55 mins          >------------------------   03.76 %
+Bash         1 hr 3 mins           >------------------------   02.08 %
+Markdown     1 hr 2 mins           >------------------------   02.04 %
 ```
 
 <!--END_SECTION:waka-->
